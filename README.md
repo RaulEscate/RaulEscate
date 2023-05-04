@@ -1,16 +1,25 @@
-### Hi there 👋
+Welcome to my page! 
 
-<!--
-**RaulEscate/RaulEscate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Raul and I am a self-taught data engineer from Georgia. 
 
-Here are some ideas to get you started:
+**A little bit about me**
+- Business Management Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Current Master of Science in Computer Science student
+
+- Current Business Advisory Consultant
+
+- Technical writer of instruction, visualization, and action
+
+**Click [HERE](https://medium.com/@rescate) to view my projects**
+
+**Core Competencies**
+
+Tools: SQL, Python, Tableau, Power BI, Oracle 
+Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Database Management
+
+
+**Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/raulescate/)
+- [Medium](https://medium.com/@rescate)
